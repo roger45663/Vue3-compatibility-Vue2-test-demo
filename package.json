@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vue/compat": "^3.3.4",
+    "element-ui": "^2.15.14",
     "vue": "^3.3.4"
   },
   "devDependencies": {
